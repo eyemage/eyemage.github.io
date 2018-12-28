@@ -1,6 +1,7 @@
 title: eyemage
 description: 
-show_downloads: true
+url: https://eyemage.github.io
+baseurl: 
 google_analytics:
 theme: jekyll-theme-cayman
 remote_theme : pages-themes.github.io/cayman
